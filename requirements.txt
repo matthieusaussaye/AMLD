@@ -1,0 +1,14 @@
+pandas==2.2.0
+openai==1.12.0
+IPython==8.22.2
+whisper-normalizer
+evaluate
+streamlit==1.32.2
+typing-extensions
+dataclasses==0.6
+langchain==0.1.7
+langchain-community==0.0.20
+langchain-core==0.1.23
+langchain-openai==0.0.6
+audio-recorder-streamlit==0.0.8
+Pillow==10.2.0
